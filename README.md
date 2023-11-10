@@ -1,8 +1,13 @@
 
 
-# Hello World👋 <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="50">
+# Hello World👋 
+<div>
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="100%" height="200">
+</div>
 
-I'm Divesh, a passionate learner and explorer in the world of code.
+### I'm Divesh, a passionate learner and explorer in the world of code.
+
+---
 
 ## 📚 Tech Stack Love
 
@@ -17,6 +22,7 @@ I'm Divesh, a passionate learner and explorer in the world of code.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
 
+---
 
 ## 📑 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -26,11 +32,14 @@ I'm Divesh, a passionate learner and explorer in the world of code.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
+---
+
 ## ⚙️ Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+---
 
 ## 🚀 Skills & Learning
 
@@ -38,9 +47,12 @@ I'm Divesh, a passionate learner and explorer in the world of code.
 - **Tools:** Git, VS Code
 - **Frameworks:** Express
 
+---
 
 ## 🌱  Current Focus & Exploring
 I'm diving deep into web development using the MERN stack, honing my skills in building full-stack applications.
+
+---
 
 ## 🚀 Open for Opportunities
 
@@ -48,19 +60,19 @@ I'm diving deep into web development using the MERN stack, honing my skills in b
 
 <!-- ### 🚧 Current Project: [Project Name] -->
 
+---
 
 ## 📈 GitHub Journey
 
 - 📌 Excited about my journey into coding.
 - 🌟 Learning every day, one commit at a time.
 
-
-
+---
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/in/diveshkumar0207/)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername/) -->
 
 Feel free to connect, collaborate, and share a virtual coffee! ☕️✨
