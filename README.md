@@ -59,8 +59,8 @@ I'm diving deep into web development using the MERN stack, honing my skills in b
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=plastic&logo=linkedin&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.linkedin.com/in/diveshkumar0207/)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername/) -->
 
 Feel free to connect, collaborate, and share a virtual coffee! ☕️✨
