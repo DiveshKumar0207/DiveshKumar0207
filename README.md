@@ -1,9 +1,9 @@
 
 
-# console.log(Hello World👋)
-<div>
-<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="100%" height="200">
-</div>
+# Consoling log...
+### Hello World👋
+![Code](./assests/img1.webp)
+
 
 ### I'm Divesh, a passionate learner and explorer in the world of code.
 
